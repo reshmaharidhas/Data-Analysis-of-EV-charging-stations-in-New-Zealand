@@ -1,8 +1,11 @@
 # Data Analysis of EV charging stations in New Zealand🔋🔌
+This project analyses the distribution of EV charging stations across New Zealand, finds the connectors with maximum power in all regions of New Zealand, identifies the EV charging stations having fast charging DC connectors, the current EV charging networks, Charge Point Operators, AC and DC connectors, and charging stations with parking fees and charging fees. The goal is to clean the dataset, perform exploratory data analysis, create data visualizations, and find insights from the cleaned dataset.
 <p align="center">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Freshmaharidhas%2FData-Analysis-of-EV-charging-stations-in-New-Zealand"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freshmaharidhas%2FData-Analysis-of-EV-charging-stations-in-New-Zealand&label=Visitors&labelColor=%2300ff00&countColor=%23000000&style=flat&labelStyle=none" /></a>
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/reshmaharidhas/Data-Analysis-of-EV-charging-stations-in-New-Zealand?labelColor=%23000000">
   <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/reshmaharidhas/Data-Analysis-of-EV-charging-stations-in-New-Zealand?labelColor=%23000000">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reshmaharidhas/Data-Analysis-of-EV-charging-stations-in-New-Zealand">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/reshmaharidhas/Data-Analysis-of-EV-charging-stations-in-New-Zealand?labelColor=%23000000">
 </p>
 
 ## Dataset
