@@ -24,6 +24,7 @@ https://www.kaggle.com/code/reshmaharidhas/data-cleaning-eda-of-ev-charging-stat
 
 ## Visualizations🔌
 ![](plots/correlation_heatmap.png)
+![](plots/comparison_of_number_of_inoperative_and_operative_connectors_in_ev_charging_stations_of_nz_by_region.png)
 ![](plots/total_number_of_ev_charging_stations_opened_in_nz_by_operational_year.png)
 ![](plots/distribution_of_maximum_power_of_different_types_of_connectors_across_nz.png)
 ![](plots/distribution_of_the_maximum_power_of_dc_type_2_ccs_connectors_by_region_in_nz.png)
