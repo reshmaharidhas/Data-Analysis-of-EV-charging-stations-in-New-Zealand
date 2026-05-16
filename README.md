@@ -36,6 +36,8 @@ https://www.kaggle.com/code/reshmaharidhas/data-cleaning-eda-of-ev-charging-stat
 ![](plots/distribution_of_maximum_power_of_different_types_of_connectors_across_nz.png)
 ![](plots/distribution_of_the_maximum_power_of_dc_type_2_ccs_connectors_by_region_in_nz.png)
 ![](plots/geographical_locations_of_ev_charging_stations_in_nz.png)
+![](plots/ev_charging_stations_in_nz_by_maximum_power_of_dc_type_2_ccs_charger.png)
+![](plots/ev_charging_stations_in_nz_by_current_type.png)
 
 ## Insights🔋
 - Auckland has the highest number of EV charging stations, because of the highest population in the Auckland region.
