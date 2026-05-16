@@ -15,6 +15,12 @@ This project analyses the distribution of EV charging stations across New Zealan
 ## Kaggle Notebook📓
 https://www.kaggle.com/code/reshmaharidhas/data-cleaning-eda-of-ev-charging-stations-in-nz
 
+## Analysis Workflow
+- Exploratory Data Analysis (EDA)
+- Data cleaning
+- Data visualizations
+- Key insights
+
 ## Tech stack💻
 - Pandas
 - Seaborn
