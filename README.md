@@ -11,11 +11,13 @@ This project analyses the distribution of EV charging stations across New Zealan
 ## Dataset
 - Source: New Zealand Transport Agency (NZTA)
 - Source URL: https://opendata-nzta.opendata.arcgis.com/datasets/NZTA::ev-roam-charging-stations/about
+- Dataset URL: https://www.kaggle.com/datasets/reshmaharidhas/ev-charging-stations-in-new-zealand
+- Size: 609 rows
 
 ## Kaggle Notebook📓
 https://www.kaggle.com/code/reshmaharidhas/data-cleaning-eda-of-ev-charging-stations-in-nz
 
-## Analysis Workflow
+## Analysis Workflow💻
 - Exploratory Data Analysis (EDA)
 - Data cleaning
 - Data visualizations
@@ -35,7 +37,7 @@ https://www.kaggle.com/code/reshmaharidhas/data-cleaning-eda-of-ev-charging-stat
 ![](plots/total_number_of_ev_charging_stations_opened_in_nz_by_operational_year.png)
 ![](plots/distribution_of_maximum_power_of_different_types_of_connectors_across_nz.png)
 ![](plots/distribution_of_the_maximum_power_of_dc_type_2_ccs_connectors_by_region_in_nz.png)
-![](plots/geographical_locations_of_ev_charging_stations_in_nz.png)
+<img width="720" height="528" alt="gif_1" src="https://github.com/user-attachments/assets/0c631e0f-2f7d-4da6-a9a7-b510a6084852" />
 ![](plots/ev_charging_stations_in_nz_by_maximum_power_of_dc_type_2_ccs_charger.png)
 ![](plots/ev_charging_stations_in_nz_by_current_type.png)
 
