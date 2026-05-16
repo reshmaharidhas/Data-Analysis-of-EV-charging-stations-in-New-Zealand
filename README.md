@@ -18,6 +18,7 @@ https://www.kaggle.com/code/reshmaharidhas/data-cleaning-eda-of-ev-charging-stat
 ## Tech stack💻
 - Pandas
 - Seaborn
+- Plotly
 - Matplotlib
 - Python
 - Numpy
